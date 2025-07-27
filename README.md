@@ -1,5 +1,7 @@
 # kube-tmux: Kubernetes context and namespace status for tmux
 
+__deprecated__: use https://github.com/jonmosco/kube-tmux which supports tpm
+
 A script that lets you add the current Kubernetes context and namespace configured
 on `kubectl` to your tmux status line.
 
